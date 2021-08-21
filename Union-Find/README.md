@@ -1,3 +1,9 @@
+## Blog
+
+Find the Part-1 in the series here: https://krshrimali.github.io/Union-Find-Problem-And-Impl/
+
+## Brief
+
 **Union:** connecting two objects.
 **Find:** Is there a path connecting 2 objects?
 
@@ -14,4 +20,3 @@ bool find(T a, T b) {
 ```
 
 Question that we are trying to answer: Is there a path connecting point p and q?
-
